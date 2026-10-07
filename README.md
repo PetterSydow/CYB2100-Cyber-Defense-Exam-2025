@@ -27,4 +27,4 @@ Vi ble begrenset til 10 sider innlevering her, derfor ting ble litt squishet sam
 
 **Karakter: A**
 
-![Karakterfordeling](Assets/CYB2100%20-%20grade_distribution_2025.jpg)
+<img src="Assets/CYB2100%20-%20grade_distribution_2025.jpg" width="50%">
