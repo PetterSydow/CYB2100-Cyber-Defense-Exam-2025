@@ -26,3 +26,5 @@ Vi ble begrenset til 10 sider innlevering her, derfor ting ble litt squishet sam
 ## Resultat
 
 **Karakter: A**
+
+![Karakterfordeling](Assets/CYB2100-grade-distribution-2025.jpg)
